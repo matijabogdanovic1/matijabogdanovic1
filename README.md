@@ -1,6 +1,6 @@
 👨‍💻 My name is Matija Bogdanović, I am 20 years old #websitedesigner and I come from Serbia.
 
-🌐 I have been engaged in website design for over 4 years and have extensive experience working with HTML, CSS, JS, PHP, and WordPress.
+🌐 I have been engaged in website design for over 4 years and have extensive experience working with HTML, CSS, JS, PHP, Figma, and WordPress.
 
 💻 Throughout my career, I have designed over 80 websites for my local clients, friends, and have assisted numerous companies in resolving their coding issues.
 
